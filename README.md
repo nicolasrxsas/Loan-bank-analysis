@@ -9,7 +9,7 @@ The dataset used is a real-world dataset obtained from Kaggle and serves as a re
 
 ## 🗂 Dataset Information
 - **File name:** `credit_dataset_clean.csv`
-- **Number of records:** ~100,000
+- **Number of records:** ~100,514
 - **Number of features:** 19
 - **Original source:** Kaggle – *Bank Loan Status Dataset*
 
