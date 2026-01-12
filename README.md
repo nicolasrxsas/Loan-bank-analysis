@@ -19,7 +19,7 @@ The project simulates a typical workflow used in banking and financial analytics
 
 ## 🗂️ Dataset
 - Source: Loan & Banking dataset (cleaned and standardized)
-- Records: ~100,000 loans
+- Records: > 100,000 loans
 - Key features:
   - Loan status
   - Loan amount
@@ -120,3 +120,4 @@ This project is part of my professional portfolio and reflects real-world analyt
 
 ## 📄 License
 This project is for educational and portfolio purposes only.
+
