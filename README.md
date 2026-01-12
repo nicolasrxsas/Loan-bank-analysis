@@ -59,6 +59,8 @@ Key KPIs:
 - Exposure at Risk (Amount & %)
 - Average Credit Score
 
+[Click Here to see All DAX Measures used](powerbi/dax_measures.md)
+
 ---
 
 ## 📊 Dashboard Overview
@@ -84,7 +86,7 @@ The Power BI dashboard is structured into four analytical sections:
 - Identification of higher-risk exposure segments
 
 📁 Power BI file:
-- powerbi/credit_risk_dashboard.pbix
+- [powerbi/credit_risk_dashboard.pbix](powerbi/credit_risk_dashboard.pbix)
 
 ---
 
@@ -112,7 +114,7 @@ The Power BI dashboard is structured into four analytical sections:
 ---
 
 ## 📌 Author
-**Nicolas**  
+**Nicolas Gomez**  
 Aspiring Data Analyst | Business Intelligence & Financial Analytics  
 
 This project is part of my professional portfolio and reflects real-world analytical practices used in credit risk analysis.
@@ -121,6 +123,7 @@ This project is part of my professional portfolio and reflects real-world analyt
 
 ## 📄 License
 This project is for educational and portfolio purposes only.
+
 
 
 
