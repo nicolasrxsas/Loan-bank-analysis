@@ -30,7 +30,7 @@ The project simulates a typical workflow used in banking and financial analytics
 
 A cleaned version of the dataset is available in:
 
-- data/credit_dataset_clean.csv
+- [credit_dataset_clean.csv](data/credit_dataset_clean.csv)
 
 ---
 
@@ -120,6 +120,7 @@ This project is part of my professional portfolio and reflects real-world analyt
 
 ## 📄 License
 This project is for educational and portfolio purposes only.
+
 
 
 
