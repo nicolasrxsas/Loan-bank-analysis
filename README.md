@@ -42,8 +42,8 @@ All data preparation was performed in **SQL Server**, including:
 - Removal of invalid and missing values
 
 Key SQL artifacts:
-- sql/data_cleaning.sql
-- sql/views_creation.sql
+- (sql/credit_risk_analysis.sql)
+
 
 ---
 
@@ -120,4 +120,5 @@ This project is part of my professional portfolio and reflects real-world analyt
 
 ## 📄 License
 This project is for educational and portfolio purposes only.
+
 
