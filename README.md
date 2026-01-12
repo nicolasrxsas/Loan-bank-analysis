@@ -63,7 +63,7 @@ Key KPIs:
 
 ## 📊 Dashboard Overview
 The Power BI dashboard is structured into four analytical sections:
-![dashboard_overview.png](image/dashboard_overview.png)
+![dashboard_overview.png](images/dashboard_overview.png)
 
 ### 1️⃣ Portfolio Overview
 - Total Loans
@@ -121,6 +121,7 @@ This project is part of my professional portfolio and reflects real-world analyt
 
 ## 📄 License
 This project is for educational and portfolio purposes only.
+
 
 
 
