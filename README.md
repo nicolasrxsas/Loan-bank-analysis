@@ -5,6 +5,8 @@ This project presents an end-to-end **credit risk analysis** using a real-world 
 The objective is to assess **portfolio exposure**, **default risk**, and **borrower financial profiles**, delivering actionable insights through a professional **Power BI dashboard**.
 
 The project simulates a typical workflow used in banking and financial analytics roles, combining **SQL-based data preparation** with **DAX-driven analytical modeling**.
+📄 [Project Summary (PDF)](docs/project_summary.pdf)
+
 
 ---
 
@@ -123,6 +125,7 @@ This project is part of my professional portfolio and reflects real-world analyt
 
 ## 📄 License
 This project is for educational and portfolio purposes only.
+
 
 
 
